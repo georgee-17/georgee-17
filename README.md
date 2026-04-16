@@ -14,8 +14,8 @@ I work across the full data stack: from pipeline architecture and SQL modelling 
 computer vision, LLM-powered applications, and analytics dashboards. I am most energized
 by problems where data engineering and real-world impact meet directly.
 
-Currently seeking internship opportunities in data engineering, solutions engineering,
-and analytics. Based in Paris. Open to hybrid and remote roles.
+"Currently seeking internship opportunities in data engineering, solutions engineering,
+and analytics. Based in Paris. Open to hybrid and remote roles. *
 ---
 
 ## Tech Stack
