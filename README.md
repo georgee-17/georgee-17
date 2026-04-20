@@ -78,7 +78,7 @@ at scale, reducing dependence on manual expert labeling.
 |--------|-------------|-------|
 | [Greenwash Detector](https://github.com/georgee-17/Greenwash-detector) | RAG pipeline to detect corporate greenwashing at scale, built at the Ekimetrics AI Sustainability Hackathon | Python · OpenAI API · TypeScript |
 | [Game State Reconstruction](https://github.com/georgee-17/GameStateReconstruction_FootballBroadcasts) | Computer vision pipeline for reconstructing football game state from broadcast footage | YOLO · ResNet18 · Jupyter |
-| [CESAR Real Estate CLI](https://github.com/JoachimZ/cesar) | LLM-powered natural language CLI for Paris property search with undervaluation flagging | Python · Claude API · SQL |
+| [CESAR Real Estate CLI](https://github.com/camille-desurmont/cesar-v1) | LLM-powered natural language CLI for Paris property search with undervaluation flagging | Python · Claude API · SQL |
 | [Metabase Maps](https://github.com/georgee-17/metabase-maps) | Custom geospatial dashboards built in Metabase for operational analytics | Metabase · GeoJSON |
 | [Recommendation System](https://github.com/georgee-17/eleven-Hackathon-RecommendationSystem) | Collaborative filtering recommendation engine built at a hackathon | Python |
 | [MLOps](https://github.com/georgee-17/MLOps) | MLOps coursework covering model deployment and pipeline management | HTML · Python |
