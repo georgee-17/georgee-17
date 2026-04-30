@@ -21,7 +21,7 @@ and analytics. Based in Paris. Open to hybrid and remote roles.
 
 ## Tech Stack
 
-**Languages:** Python · SQL · R  
+**Languages:** Python · SQL ·
 **Data & Analytics:** Pandas · NumPy · PostgreSQL · Metabase · NocoDB  
 **Machine Learning:** PyTorch · Scikit-learn · YOLO · ResNet18  
 **AI / LLM:** OpenAI API · RAG pipelines · Claude API · DistilBERT (LoRA fine-tuning)  
